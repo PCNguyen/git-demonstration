@@ -1,3 +1,1 @@
 Feature 1
-
-test conflict on feature 1Cause conflict on feature 1
